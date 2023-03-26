@@ -18,7 +18,15 @@ fun main() {
     val action = "action"
     val content = "content"
     val postContent = """
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer aliquet semper turpis sit amet pretium. Donec ac feugiat urna. Nullam pharetra pulvinar eros eu congue.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus rhoncus mi in semper commodo. 
+        Ut sit amet nunc libero. Aliquam dignissim consectetur justo. 
+        Aliquam ullamcorper leo eget turpis iaculis blandit. 
+        Integer nunc augue, porta ut feugiat sit amet, rutrum sed ante. 
+        Etiam ullamcorper fermentum augue eu ornare. Quisque luctus a leo nec pharetra. 
+        Quisque ut viverra tellus. Aenean dolor metus, elementum sed molestie vitae, pellentesque vel erat. 
+        Vivamus malesuada tincidunt ante. Mauris facilisis dolor eget libero ultricies dignissim. 
+        Aenean et ultricies ante, et dignissim mauris. 
+        Mauris facilisis nulla vel quam malesuada, ut convallis velit mollis.
     """.trimIndent()
 
     val messages = listOf(
